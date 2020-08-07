@@ -1,3 +1,2 @@
 # hello-world
-print('Begin my github journey')
-
+Just another repository
