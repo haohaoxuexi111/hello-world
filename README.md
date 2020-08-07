@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+print('Begin my github journey')
+
